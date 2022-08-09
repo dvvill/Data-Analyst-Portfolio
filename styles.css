@@ -57,7 +57,7 @@ a{
     background-position: 95% 95%;
     /* background-image: linear-gradient(#0033cc, #00ffff); */
     color: white;
-    background-size: 1400px 700px;
+    background-size: 1999px 1000px;
     /* width: 800px;
     height: 800px; */
     border-top: 0;
@@ -129,7 +129,7 @@ h2.projects-title{
     margin: 0px 0px 45px;
     padding-top: 4%;
 }
-.project1-name-title{
+.project-name-title{
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 1.7rem;
@@ -137,11 +137,11 @@ h2.projects-title{
     margin-top: 0;
     margin-left: 40px;
 }
-.project1-summary{
+.project-summary{
     text-align: left;
     margin-left: 40px;
 }
-.project1-summary-text{
+.project-summary-text{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     line-height: 1.5;
